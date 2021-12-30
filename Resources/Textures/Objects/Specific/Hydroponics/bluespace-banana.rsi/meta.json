@@ -45,6 +45,12 @@
         },
         {
             "name": "peel3"
+        },
+        {
+            "name": "peel-inhand-left"
+        },
+        {
+            "name": "peel-inhand-right"
         }
     ]
 }
