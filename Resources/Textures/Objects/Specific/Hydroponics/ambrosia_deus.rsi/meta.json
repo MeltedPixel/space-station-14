@@ -1,0 +1,65 @@
+{
+    "version": 1,
+    "license": "CC-BY-SA-3.0",
+    "copyright": "",
+    "size": {
+    "x": 32,
+    "y": 32
+    },
+    "states": [
+        {
+            "name": "dead"
+        },
+        {
+            "name": "harvest"
+        },
+        {
+            "name": "produce"
+        },
+        {
+            "name": "seed"
+        },
+        {
+            "name": "stage-1"
+        },
+        {
+            "name": "stage-2"
+        },
+        {
+            "name": "stage-3"
+        },
+        {
+            "name": "stage-4"
+        },
+        {
+            "name": "stage-5"
+        },
+        {
+            "name": "stage-6"
+        },
+        {
+            "name": "harvest-frame-1"
+        },
+        {
+            "name": "harvest-frame-2"
+        },
+        {
+            "name": "harvest-frame-3"
+        },
+        {
+            "name": "harvest-frame-4"
+        },
+        {
+            "name": "ambrosiadeus_Hat_East"
+        },
+        {
+            "name": "ambrosiadeus_Hat_West"
+        },
+        {
+            "name": "ambrosiadeus_Hat_North"
+        },
+        {
+            "name": "ambrosiadeus_Hat_South"
+        }
+    ]
+}
