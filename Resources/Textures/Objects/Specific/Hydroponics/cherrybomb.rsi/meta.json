@@ -19,6 +19,12 @@
         {
             "name": "seed"
         },
+		{
+            "name": "cherrybomb-lit-frame-1"
+        },
+		{
+            "name": "cherrybomb-lit-frame-2"
+        },
         {
             "name": "stage-1"
         },
